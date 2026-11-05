@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-territories-and-ownership-nextjs",
+  "capabilityKey": "liberusoftware/module-crm-territories-and-ownership",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-crm-territories-and-ownership-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/crm/nextjs/territories-and-ownership.md",
+  "presentationPlan": "projects/crm/nextjs/territories-and-ownership.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
